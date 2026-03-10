@@ -28,3 +28,14 @@ To receive the alert notifications, I used Amazon Simple Notification Service (S
 
 To test the alert system, I connected to the EC2 instance terminal and executed commands that increased CPU usage. This artificially generated a higher workload on the server. As the CPU utilization increased, I observed the changes in the CloudWatch dashboard. After the CPU utilization crossed the defined threshold, the CloudWatch alarm was triggered successfully and I received an email alert through SNS.
 Overall, this task provided hands-on experience with cloud monitoring and alert configuration using AWS services. It helped me understand how real-world cloud systems are monitored and managed to maintain reliability, performance, and availability.
+
+#output
+<img width="1870" height="682" alt="Image" src="https://github.com/user-attachments/assets/e65110c1-f25d-4026-b610-7375644cf093" />
+
+<img width="1912" height="667" alt="Image" src="https://github.com/user-attachments/assets/3e85a7c2-f03e-4195-a22d-dcf624a76ed5" />
+
+<img width="1782" height="891" alt="Image" src="https://github.com/user-attachments/assets/e2342b77-af83-4797-9274-567d348721d3" />
+
+<img width="1782" height="891" alt="Image" src="https://github.com/user-attachments/assets/c8bf24cd-65fe-4b82-9dc8-96af75ff1ce8" />
+
+<img width="1732" height="903" alt="Image" src="https://github.com/user-attachments/assets/1c08c0a1-f0e9-4f96-a40f-c373e16992d1" />
